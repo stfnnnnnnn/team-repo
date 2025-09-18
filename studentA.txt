@@ -1,1 +1,2 @@
-Hello Student A from Student B
+Hello Student A, merge conflict is solved!
+(Solved by Student B)
